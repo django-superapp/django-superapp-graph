@@ -1,0 +1,2 @@
+neomodel>=5.3.0
+neo4j-driver>=5.0.0
