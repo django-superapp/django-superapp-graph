@@ -8,7 +8,7 @@ Django SuperApp with Neo4j integration and LLM-powered node creation.
 cd my_superapp;
 cd superapp/apps;
 django_superapp bootstrap-app \
-    --template-repo https://github.com/django-superapp/django-superapp-graph-app ./graph
+    --template-repo https://github.com/django-superapp/django-superapp-graph ./graph
 cd ../../;
 ```
 
